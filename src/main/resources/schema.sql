@@ -1,0 +1,1 @@
+create table IF NOT EXISTS BOOKINGS(ID serial, FIRST_NAME varchar(5) NOT NULL);
